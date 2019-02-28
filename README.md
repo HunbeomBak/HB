@@ -23,3 +23,7 @@
 - titanic : 타이타닉
 - particle : 입자 분류
 
+## AI_chemi
+
+[CH485---Artificial-Intelligence-and-Chemistry](https://github.com/SeongokRyu/CH485---Artificial-Intelligence-and-Chemistry?fbclid=IwAR2Nv9TFH8tRcFqPNjpAaL3X2J86cP1TBv_9aggt-9CwSFVy8ykv-BnXUbU) 보고 공부한거 올리는 
+
