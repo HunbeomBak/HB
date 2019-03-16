@@ -22,6 +22,7 @@
 
 - titanic : 타이타닉
 - particle : 입자 분류
+- house : kaggle 제 2회 집값 예측
 
 ## AI_chemi
 
